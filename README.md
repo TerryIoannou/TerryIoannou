@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Terry Ioannou.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Software+Development+Student;Full-Stack+Web+Developer;API+Integration+Specialist;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-5th-year **Information Technology** student at **NHL Stenden University** (Netherlands) specializing in **Software Development**. Passionate about building scalable web applications, API integration, and solving complex technical challenges. Currently seeking opportunities for a non-graduation IT internship.
+5th-year **Information Technology** student at **NHL Stenden University** (Netherlands) specializing in **Software Development & Engineering**. Passionate about building scalable web applications, API integration, and solving complex technical challenges. Currently seeking opportunities for a non-graduation IT internship.
 
 - 🔭 **Current Focus:** Full-stack development, RESTful APIs, WordPress plugin development
 - 🌱 **Learning:** Advanced software architecture, cloud technologies, and modern DevOps practices
 - 💼 **Open to:** IT internships, software development roles, and collaborative projects
 - 📍 **Location:** Drenthe, Netherlands
-- ⚡ **Fun fact:** I love trading card games (Yu-Gi-Oh!) and exploring IoT projects with ESP32
+- ⚡ **Fun fact:** I love trading card games and exploring IoT projects with ESP32 and other Micro-Controllers
 
 ---
 
@@ -114,19 +114,6 @@
 - **Minor:** Certified Ethical Hacking
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
