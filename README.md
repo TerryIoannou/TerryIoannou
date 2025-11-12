@@ -119,5 +119,35 @@
 
 ## 🏆 Key Achievements & Skills
 
+
+</div>
+
+### **Core Competencies**
+
+- ✅ **Full-Stack Web Development** (Frontend + Backend with React, Node.js, PHP)
+- ✅ **RESTful API Design & Integration** (WordPress plugin development, API gateways)
+- ✅ **IoT & Embedded Systems** (Arduino, ESP32, Microcontroller programming in C)
+- ✅ **AI & Computer Vision** (Waste detection systems, image recognition projects)
+- ✅ **Object-Oriented Programming** (Java, C#, PHP with design patterns)
+- ✅ **Database Design & Management** (SQL, MySQL, PostgreSQL, system optimization)
+- ✅ **Version Control & Collaboration** (Git, GitHub, Agile methodology)
+- ✅ **Network Administration & Security** (Certified Ethical Hacking, Proxmox automation)
+- ✅ **Cloud Infrastructure** (Proxmox automation, container orchestration basics)
+- ✅ **Game Development & Real-time Systems** (Apple Vision Pro, Battle Bots, navigation systems)
+
+### **Project Highlights**
+
+| Project | Technologies | Key Achievement |
+|---------|-------------|-----------------|
+| **AI Waste Recognition System** | Python, TensorFlow, Computer Vision | Trained models to classify organic/non-organic waste |
+| **Apple Vision Pro Game** | Unity, C#, 3D Development | Developed immersive VR game experience |
+| **Proxmox Automation** | Linux, Scripting, Infrastructure | Automated cloud infrastructure management |
+| **Navigational Battle Bot** | Arduino, C, Embedded Systems | Built autonomous robot with real-time navigation |
+| **Live Streaming Platform** | Full-Stack, Database Design | Created multi-user streaming application |
+| **WordPress API Integration** | PHP, REST API, JavaScript | Developed custom plugin with cross-origin communication |
+
+---
+
+
 <div align="center">
 
