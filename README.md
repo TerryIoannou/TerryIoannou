@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Terry Ioannou.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Software+Development+&+Enginner+Student;Full-Stack+Web+Developer;API+Integration+Specialist;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&repeat=true&width=600&lines=Software+Development+Student;Full-Stack+Web+Developer;API+Integration+Specialist;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
